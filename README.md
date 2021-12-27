@@ -1,5 +1,3 @@
-<img src="https://github.com/bharabhi01/bharabhi01/blob/main/Add%20a%20heading.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -97,9 +95,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  

@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on MetaChat (A Chat website based on Web 3.0)  
   
 
-- 🌱 I’m currently learning Data Structures and Algorithms  
+- 🌱 I’m currently learning Data Structures and Algorithms.  
   
 
 - ❓ Ask me about anything related to React and related technologies.  
@@ -65,6 +65,9 @@
 
 ## Connect with me  
 <div align="center">
+<a href="bhardwajabhi2701@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/bharabhi01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -73,7 +76,13 @@
 </a>
 <a href="https://instagram.com/abhishek.01" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://leetcode.com/bharabhi01/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.codechef.com/users/daydreamer_01" target="_blank">
+<img src=https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 

@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abhishek, a pre-final year CS student👨‍🎓</div>  
+### <div align="center">I'm Abhishek Bhardwaj, a pre-final year CS student👨‍🎓</div>  
   
 
 - 🔭 I’m currently working on MetaChat (A Chat website based on Web 3.0)  

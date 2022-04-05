@@ -6,13 +6,13 @@
 ### <div align="center">I'm Abhishek Bhardwaj, a pre-final year CS student from 🇮🇳🧑‍💻</div>  
   
 
-- 🔭 I’m currently working on MetaChat (A Chat website based on Web 3.0)  
+- 🔭 I’m currently working on UniFit (AI powered fitness trainer). 
   
 
-- 🌱 I’m currently learning Data Structures and Algorithms.  
+- 🌱 I’m currently practicing Data Structures and Algorithms.  
   
 
-- ❓ Ask me about anything related to React and related technologies.  
+- ⚽ When I'm not coding, you can find me watching Football a lot.
    
   
 

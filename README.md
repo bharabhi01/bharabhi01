@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abhishek Bhardwaj, a pre-final year CS student from 🇮🇳🧑‍💻</div>  
+### <div align="center">I'm Abhishek Bhardwaj, a final year CS student from 🇮🇳🧑‍💻</div>  
   
 
 - 🔭 I’m currently working on UniFit (AI powered fitness trainer). 

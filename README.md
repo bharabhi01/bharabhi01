@@ -76,9 +76,6 @@
 <a href="https://leetcode.com/bharabhi01/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codechef.com/users/daydreamer_01" target="_blank">
-<img src=https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white style="margin-bottom: 5px;" />
-</a>
 </div>  
   
 

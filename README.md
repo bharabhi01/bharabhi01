@@ -62,8 +62,6 @@
 <a href="https://linkedin.com/in/bhardwajabhi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/abhishek.01" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/bharabhi01/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black style="margin-bottom: 5px;" />

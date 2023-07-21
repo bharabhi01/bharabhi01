@@ -6,10 +6,7 @@
 ### <div align="center">I'm Abhishek Bhardwaj, a Software Developer from 🇮🇳🧑‍💻</div>  
   
 
-- 🔭 I’m currently working on UniFit (AI powered fitness trainer). 
-  
-
-- 🌱 I’m currently practicing Data Structures and Algorithms.  
+- 🚀Currently, learning about building highly scalable and fault-proof distributed systems.
   
 
 - ⚽ When I'm not coding, you can find me watching Football a lot.

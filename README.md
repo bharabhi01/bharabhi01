@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abhishek Bhardwaj, a Software Developer from 🇮🇳🧑‍💻</div>  
   
 
-- 🚀Currently, learning about building highly scalable and fault-proof distributed systems.
+- 🚀 Currently, learning about building highly scalable and fault-proof distributed systems.
   
 
 - ⚽ When I'm not coding, you can find me watching Football a lot.

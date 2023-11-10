@@ -1,6 +1,6 @@
 <b>🧑‍💻 I'm Abhishek Bhardwaj, a Software Developer who loves to build and break stuff</b>
   
-- Currently, I'm a SWE intern at Ather Energy.
+- Currently, I'm a SWE at Ather Energy.
 
 - I'm learning about building highly scalable and fault-proof distributed systems.
   

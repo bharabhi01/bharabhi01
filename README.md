@@ -15,12 +15,12 @@
 - JavaScript
 - ReactJS
 - NextJS
-- Redux
 - PostgreSQL
 - MongoDB
 - Docker
 - Kubernetes
 - Firebase
+- Supabase
  
 <br/>   
 

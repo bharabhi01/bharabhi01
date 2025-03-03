@@ -10,7 +10,6 @@
 
 <b>🚀 Tech Stacks</b>
 
-- C / C++
 - Go
 - JavaScript
 - ReactJS

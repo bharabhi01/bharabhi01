@@ -4,7 +4,7 @@
 
 - I'm learning about building highly scalable and fault-proof distributed systems.
   
-- When I'm not coding, you can find me watching Football a lot.
+- When I'm not coding, I watch Football a lot.
 
 <br/>    
 
@@ -20,6 +20,7 @@
 - Kubernetes
 - Firebase
 - Supabase
+- AWS S3
  
 <br/>   
 
